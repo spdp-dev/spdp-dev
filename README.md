@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="//spdp.dev/">home</a> .
+    <a href="//spdp.dev/">games</a> .
     <a href="//spdp.dev/blog">blog</a>
 </p>
 
